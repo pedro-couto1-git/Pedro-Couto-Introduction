@@ -21,7 +21,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><a href="https://github.com/pedro-couto1-git/Pedro-Couto-Introduction><b>Repositório deINt</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -33,8 +33,8 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-tor, and more</i></li>
+  <li><a href="https://github.com/pedro-couto1-git/Pedro-Couto-Introduction"><b><img src= width="20" alt="Repositório de introdução" /> </b></a><br/><i>Construi meu primeiro repositório.</i></li>
+</i></li>
 </ul>
 
 <p> Você pode me encontrar em <a href="https://www.instagram.com/pedro_wcouto/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pedro_wcouto!</a><br/> <i></i></b></br> <b></b><b></b></p>
